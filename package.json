@@ -3,10 +3,10 @@
     "displayName": "Rapid-Snippets",
     "description": "Fast Code Generator - Basically This Extension Generate Predefine Snippets for starting new project that will be help you to rapidly developed project.",
     "version": "1.0.0",
-    "publisher": "Harshil Kaneria",
+    "publisher": "Harshil-Kaneria",
     "repository": {
       "type": "git",
-      "url": "https://github.com/bradtraversy/something"  
+      "url": "https://github.com/Harshil-Kaneria/VS-Code-Rapid-Snippets"  
     },
     "icon": "icon.png",
     "engines": {
@@ -19,7 +19,7 @@
         "snippets": [
             {
                 "language": "html",
-                "path": "./snippets/html_bs4.code-snippets"
+                "path": "./snippets/html.code-snippets"
             },
             {
                 "language": "javascript",

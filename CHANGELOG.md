@@ -12,3 +12,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Nodejs File With Express Routing Snippets
 - Reactjs Function Module Snippets
 - Reactjs Class Module Snippets
+
+## [1.0.1] - 09/01/2021
+### Added
+- Html  Snippets
+- Html With materializecss Snippets

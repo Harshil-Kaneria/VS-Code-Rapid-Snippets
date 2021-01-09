@@ -10,6 +10,8 @@ Fast Code Generator - Basically This Extension Generate Predefine Snippets for s
 !nodeexp  --  Generate Nodejs code with express routing <br/>
 !rjf  --  Generate Reactjs Module Function <br/>
 !rjc  --  Generate Reactjs Module Class <br/>
+!html  --  Generate Html Code <br/>
+!htmlmc  --  Generate Html Code With Materializecss <br/>
 
 For More Details See Screenshot
 
@@ -43,6 +45,20 @@ Type **!rjc** And Then Hit Tab But Make Sure File Extension is js.
 ![Reactjs With Class Module](https://raw.githubusercontent.com/Harshil-Kaneria/VS-Code-Rapid-Snippets/main/images/t4rjc.png)
 ![Reactjs With Class Module](https://raw.githubusercontent.com/Harshil-Kaneria/VS-Code-Rapid-Snippets/main/images/c4rjc.png)
 
+### Html
+
+Type **!html** And Then Hit Tab But Make Sure File Extension is Html.
+
+![Html](https://raw.githubusercontent.com/Harshil-Kaneria/VS-Code-Rapid-Snippets/main/images/t5html.png)
+![Html](https://raw.githubusercontent.com/Harshil-Kaneria/VS-Code-Rapid-Snippets/main/images/c5html.png)
+
+### Html With Materializecss
+
+Type **!htmlmc** And Then Hit Tab But Make Sure File Extension is Html.
+
+![Html With Materializecss](https://raw.githubusercontent.com/Harshil-Kaneria/VS-Code-Rapid-Snippets/main/images/t6html.png)
+![Html With Materializecss](https://raw.githubusercontent.com/Harshil-Kaneria/VS-Code-Rapid-Snippets/main/images/c6html.png)
+
 ## Release Notes
 
 ### 1.0.0
@@ -50,5 +66,9 @@ Type **!rjc** And Then Hit Tab But Make Sure File Extension is js.
 - Nodejs File With Express Routing Snippets
 - Reactjs Function Module Snippets
 - Reactjs Class Module Snippets
+
+### 1.0.1
+- Html  Snippets
+- Html With materializecss Snippets
 
 **Enjoy!**
