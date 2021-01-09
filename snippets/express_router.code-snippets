@@ -1,0 +1,24 @@
+{
+    "Express-Node": {
+        "prefix": "!nodeexp",
+        "body": [
+            "require('dotenv').config()",
+            "const express = require('express')",
+            "const app = express()",
+            "$0",
+            "// Some Predefine Configration Uncomment when it is required",
+            "// app.set('view engine', 'hbs');",
+            "// app.use(express.urlencoded({ extended: false }));",
+            "$0",
+            "// Get Route ",
+            "app.get('/', function (req, res) {",
+            "${1:res.send('Wow')}",
+            "})",
+            "$0",
+            "// Application Listen on PORT",
+            "const port = process.env.PORT || 3000",
+            "app.listen(port,()=>{console.log(`\\nApplication Running on \\${port} Port\\nLocal-System http://localhost:\\${port}/`)})"
+        ],
+        "description": "Generate Express-Node Js Template"
+    }
+}

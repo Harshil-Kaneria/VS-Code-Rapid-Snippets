@@ -1,0 +1,31 @@
+{
+    "React-JS-Function": {
+        "prefix": "!rjf",
+        "body": [
+            "import './App.css';",
+            "$0",
+            "function App() {",
+            "  return (<><p>${1:Wow}</p></>);",
+            "}",
+            "$0",
+            "export default App;"
+        ],
+        "description": "Generate React-Js Template with Function exports"
+    },
+    "React-JS-Class": {
+        "prefix": "!rjc",
+        "body": [
+            "import React from 'react';",
+            "import './App.css';",
+            "$0",
+            "class App extends React.Component {",
+            "  render() {",
+            "    return (<><p>${1:Wow}</p></>);",
+            "  }",
+            "}",
+            "$0",
+            "export default App;"
+        ],
+        "description": "Generate React-Js Template with Class  exports"
+    }
+}
