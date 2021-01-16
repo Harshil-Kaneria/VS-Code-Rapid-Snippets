@@ -6,6 +6,13 @@ Fast Code Generator - Basically This Extension Generate Predefine Snippets for s
 
 **This Extension Work With Specific Commands Like**
 
+f  --  Generate forloop <br/>
+w  --  Generate whileloop <br/>
+s  --  Generate switchcase <br/>
+i  --  Generate if condition <br/>
+ie  --  Generate if else condition <br/>
+ei  --  Generate elseif condition <br/>
+iei  --  Generate if elseif condition <br/>
 !htmlbs4  --  Generate Html Code With Bootstrap4 <br/>
 !nodeexp  --  Generate Nodejs code with express routing <br/>
 !rjf  --  Generate Reactjs Module Function <br/>
@@ -74,5 +81,8 @@ Type **!htmlmc** And Then Hit Tab But Make Sure File Extension is Html.
 ### 1.0.2
 - Add Comments
 - Add TabSpace
+
+### 1.0.3
+- Forloop , Whileloop , if , if else if ,switch case
 
 **Enjoy!**

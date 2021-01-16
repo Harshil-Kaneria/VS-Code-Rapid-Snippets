@@ -22,3 +22,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ### Added
 - Add Comments
 - Add TabSpace
+
+## [1.0.3] - 16/01/2021
+### Added
+- Forloop , Whileloop , if , if else if ,switch case
