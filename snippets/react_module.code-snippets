@@ -4,10 +4,12 @@
         "body": [
             "import './App.css';",
             "$0",
+            "// Make Function",
             "function App() {",
             "  return (<><p>${1:Wow}</p></>);",
             "}",
             "$0",
+            "// Export Function For Use in Another File",
             "export default App;"
         ],
         "description": "Generate React-Js Template with Function exports"
@@ -18,12 +20,14 @@
             "import React from 'react';",
             "import './App.css';",
             "$0",
+            "// Make Class",
             "class App extends React.Component {",
             "  render() {",
             "    return (<><p>${1:Wow}</p></>);",
             "  }",
             "}",
             "$0",
+            "// Export Class For Use in Another File",
             "export default App;"
         ],
         "description": "Generate React-Js Template with Class  exports"

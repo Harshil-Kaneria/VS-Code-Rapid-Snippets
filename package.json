@@ -2,7 +2,7 @@
     "name": "rapid-snippets",
     "displayName": "Rapid-Snippets",
     "description": "Fast Code Generator - Basically This Extension Generate Predefine Snippets for starting new project that will be help you to rapidly developed project.",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "publisher": "Harshil-Kaneria",
     "repository": {
       "type": "git",

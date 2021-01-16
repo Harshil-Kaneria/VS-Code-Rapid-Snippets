@@ -17,3 +17,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ### Added
 - Html  Snippets
 - Html With materializecss Snippets
+
+## [1.0.2] - 16/01/2021
+### Added
+- Add Comments
+- Add TabSpace
