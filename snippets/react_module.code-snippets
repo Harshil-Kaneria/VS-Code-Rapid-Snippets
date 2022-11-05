@@ -1,18 +1,55 @@
-{
+{ 
+    "React-JS-State": {
+        "prefix": "!rjs",
+        "body": [
+            "  const [state, setState] = useState();"
+        ],
+        "description": "React js State"
+    },
+    "React-JS-Effect": {
+        "prefix": "!rje",
+        "body": [
+            "  useEffect(() => {",
+            "  },[]);",
+        ],
+        "description": "React js Use Effect"
+    },
     "React-JS-Function": {
         "prefix": "!rjf",
         "body": [
-            "import './App.css';",
-            "$0",
             "// Make Function",
-            "function App() {",
-            "  return (<><p>${1:Wow}</p></>);",
+            "const App = () => {",
+            "  return (<>",
+            "    <p>Wow</p>",
+            "  </>);",
             "}",
             "$0",
             "// Export Function For Use in Another File",
             "export default App;"
         ],
         "description": "Generate React-Js Template with Function exports"
+    },
+    "React-JS-Full-Function": {
+        "prefix": "!rjff",
+        "body": [
+            "import  React, { useState, useEffect } from \"react\";",
+            "// Make Function",
+            "const App = () => {",
+            "$0",
+            "  const [state, setState] = useState()",
+            "$0",
+            "  useEffect(() => {",
+            "  },[]);",
+            "$0",
+            "  return (<>",
+            "    <p>${1:Wow}</p>",
+            "  </>);",
+            "}",
+            "$0",
+            "// Export Function For Use in Another File",
+            "export default App;"
+        ],
+        "description": "Generate React-Js Template with Function useEffect & State exports"
     },
     "React-JS-Class": {
         "prefix": "!rjc",

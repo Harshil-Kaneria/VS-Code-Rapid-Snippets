@@ -1,38 +1,44 @@
 {
-    "name": "rapid-snippets",
-    "displayName": "Rapid-Snippets",
-    "description": "Fast Code Generator - Basically This Extension Generate Predefine Snippets for starting new project that will be help you to rapidly developed project.",
-    "version": "1.0.3",
-    "publisher": "Harshil-Kaneria",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/Harshil-Kaneria/VS-Code-Rapid-Snippets"
-    },
-    "icon": "icon.png",
-    "engines": {
-        "vscode": "^1.52.0"
-    },
-    "categories": [
-        "Snippets"
-    ],
-    "contributes": {
-        "snippets": [
-            {
-                "language": "",
-                "path": "./snippets/html.code-snippets"
-            },
-            {
-                "language": "",
-                "path": "./snippets/express_router.code-snippets"
-            },
-            {
-                "language": "",
-                "path": "./snippets/react_module.code-snippets"
-            },
-            {
-                "language": "",
-                "path": "./snippets/general.code-snippets"
-            }
-        ]
-    }
+	"name": "rapid-snippets",
+	"displayName": "Rapid-Snippets",
+	"description": "Fast Code Generator - Basically This Extension Generate Predefine Snippets for starting new project that will be help you to rapidly developed project.",
+	"version": "1.0.4",
+	"publisher": "Harshil-Kaneria",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Harshil-Kaneria/VS-Code-Rapid-Snippets"
+	},
+	"icon": "icon.png",
+	"engines": {
+		"vscode": "^1.52.0"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "",
+				"path": "./snippets/html.code-snippets"
+			},
+			{
+				"language": "",
+				"path": "./snippets/express_router.code-snippets"
+			},
+			{
+				"language": "",
+				"path": "./snippets/react_module.code-snippets"
+			},
+			{
+				"language": "",
+				"path": "./snippets/general.code-snippets"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "754acd73-79c3-44d2-9c3d-ddd50a5032ac",
+		"publisherDisplayName": "Harshil-Kaneria",
+		"publisherId": "5d53d4fd-d3c8-47fc-b6bd-94b1115fddcf",
+		"isPreReleaseVersion": false
+	}
 }
